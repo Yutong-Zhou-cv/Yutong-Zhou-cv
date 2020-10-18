@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Yutong-Zhou-cv's github stats](https://github-readme-stats.vercel.app/api?username=Yutong-Zhou-cv&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Yutong-Zhou-cv's github stats](https://github-readme-stats.vercel.app/api?username=Yutong-Zhou-cv&show_icons=true&theme=dracula)](https://github.com/Yutong-Zhou-cv/Yutong-Zhou-cv)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Yutong-Zhou-cv&repo=A-Text_to_Image-zoo&theme=dracula)](https://github.com/Yutong-Zhou-cv/A-Text_to_Image-zoo)
