@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 
 [![Yutong-Zhou-cv's github stats](https://github-readme-stats.vercel.app/api?username=Yutong-Zhou-cv&show_icons=true&theme=dracula)](https://github.com/Yutong-Zhou-cv/Yutong-Zhou-cv)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Yutong-Zhou-cv&repo=A-Text_to_Image-zoo&theme=dracula)](https://github.com/Yutong-Zhou-cv/A-Text_to_Image-zoo)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Yutong-Zhou-cv&repo=awesome-Text-to-Image&theme=dracula)](https://github.com/Yutong-Zhou-cv/awesome-Text-to-Image)
 
  
