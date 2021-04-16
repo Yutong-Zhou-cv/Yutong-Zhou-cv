@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Yutong-Zhou-cv's github stats](https://github-readme-stats.vercel.app/api?username=Yutong-Zhou-cv&show_icons=true&theme=dracula)](https://github.com/Yutong-Zhou-cv/Yutong-Zhou-cv)
+[![Yutong-Zhou-cv's github stats](https://github-readme-stats.vercel.app/api?username=Yutong-Zhou-cv&show_icons=true&theme=calm)](https://github.com/Yutong-Zhou-cv/Yutong-Zhou-cv)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Yutong-Zhou-cv&repo=awesome-Text-to-Image&theme=dracula)](https://github.com/Yutong-Zhou-cv/awesome-Text-to-Image)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Yutong-Zhou-cv&repo=awesome-Text-to-Image&theme=calm)](https://github.com/Yutong-Zhou-cv/awesome-Text-to-Image)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Yutong-Zhou-cv&repo=awesome-Transformer-in-CV&theme=calm)](https://github.com/Yutong-Zhou-cv/awesome-Transformer-in-CV)
 
  
