@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi, I'm @Yutong 🦌</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Yutong-Zhou-cv&label=Profile%20Views&color=blue&style=plastic" alt="Yutong-Zhou-cv" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Yutong-Zhou-cv&label=Visitors&color=blue&style=plastic" alt="Yutong-Zhou-cv" /></p>
 
 ### 📈 Stats
 
