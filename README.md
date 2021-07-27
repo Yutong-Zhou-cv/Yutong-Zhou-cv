@@ -34,4 +34,5 @@ Here are some ideas to get you started:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Yutong-Zhou-cv&repo=Awesome-AI-in-Beauty-Industry&theme=calm)](https://github.com/Yutong-Zhou-cv/Awesome-AI-in-Beauty-Industry)
  
 ### 🌞 Focusing Repo
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Yutong-Zhou-cv&repo=label-studio&theme=flag-india)](https://github.com/Yutong-Zhou-cv/label-studio)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=heartexlabs&repo=label-studio&theme=flag-india)](https://github.com/heartexlabs/label-studio)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZPdesu&repo=Barbershop&theme=flag-india)](https://github.com/ZPdesu/Barbershop)
