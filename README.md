@@ -36,4 +36,8 @@ Here are some ideas to get you started:
 ### 🌞 Focusing Repo
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=heartexlabs&repo=label-studio&theme=flag-india)](https://github.com/heartexlabs/label-studio)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZPdesu&repo=Barbershop&theme=flag-india)](https://github.com/ZPdesu/Barbershop)
+<!--
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zyainfal&repo=One-Shot-Face-Swapping-on-Megapixels&theme=flag-india)](https://github.com/zyainfal/One-Shot-Face-Swapping-on-Megapixels)
+
+-->
