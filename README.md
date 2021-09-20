@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Yutong-Zhou-cv&repo=awesome-Text-to-Image&theme=calm)](https://github.com/Yutong-Zhou-cv/awesome-Text-to-Image)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Yutong-Zhou-cv&repo=awesome-Transformer-in-CV&theme=calm)](https://github.com/Yutong-Zhou-cv/awesome-Transformer-in-CV)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Yutong-Zhou-cv&repo=Awesome-AI-in-Beauty-Industry&theme=calm)](https://github.com/Yutong-Zhou-cv/Awesome-AI-in-Beauty-Industry)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Yutong-Zhou-cv&repo=Awesome-Multimodality&theme=calm)](https://github.com/Yutong-Zhou-cv/Awesome-Multimodality)
  
 ### 🌞 Focusing Repo
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=heartexlabs&repo=label-studio&theme=flag-india)](https://github.com/heartexlabs/label-studio)
