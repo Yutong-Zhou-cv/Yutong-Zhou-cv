@@ -1,35 +1,45 @@
-name: Metrics
+name: GitHub Metrics
+
 on:
-  # Lines below let you run workflow manually and on each commit
-  push: {branches: ["master", "main"]}
   workflow_dispatch:
+  schedule:
+    - cron: "50 * * * *"
+  push:
+    branches:
+      - master
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
       # See action.yml for all options
-      - uses: Yutong-Zhou-cv/metrics@latest
+      - uses: lowlighter/metrics@v3.16
         with:
-          # Your GitHub token
-          token: ${{ secrets.METRICS_TOKEN }}
-          # GITHUB_TOKEN is a special auto-generated token restricted to current repository, which is used to push files in it
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
-          
+          token: ${{ secrets.My_Page}}
+          filename: static/github-metrics.*
+          config_padding: 0, 20
+          committer_message: "chore: update github metrics [skip ci]"
+
+          # Options
+          user: Yutong-Zhou-cv
+          template: classic
+          config_timezone: Asia/Tokyo
+          config_display: large
+
+
           # Coding habits
           plugin_habits: yes
           plugin_habits_from: 200       # Use 200 events to compute habits
           plugin_habits_days: 14        # Keep only events from last 14 days
           plugin_habits_facts: yes      # Display facts section
           plugin_habits_charts: yes     # Display charts section
-          config_timezone: Asia/Tokyo
-          
+
           plugin_stars: yes
           plugin_stars_limit: 4 # Limit to 4 entries
-          
+
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year # Display full year instead of half year
 
           # languages
           plugin_languages: yes
           plugin_languages_ignored: "HTML"
-          
