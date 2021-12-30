@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # See action.yml for all options
-      - uses: lowlighter/metrics@v3.16
+      - uses: Yutong-Zhou-cv/metrics@latest
         with:
           token: ${{ secrets.My_Page}}
           filename: static/github-metrics.*
