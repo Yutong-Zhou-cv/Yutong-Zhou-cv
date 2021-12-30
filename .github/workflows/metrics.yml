@@ -42,7 +42,7 @@ jobs:
           plugin_stars_limit: 4 # Limit to 4 entries
 
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year # Display full year instead of half year
+          plugin_isocalendar_duration: half-year # Display full year instead of half year
 
           # languages
           plugin_languages: yes
