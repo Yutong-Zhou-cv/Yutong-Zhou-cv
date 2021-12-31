@@ -26,15 +26,15 @@ Here are some ideas to get you started:
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Yutong-Zhou-cv&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=onedark&margin-w=15" alt="Yutong-Zhou-cv" /></a> </p>
 
-
 ### 🍬 Awesome Repo
 <p align="center">
-  <img alt="Text-to-Image" height="90px" src="https://github-readme-stats.vercel.app/api/pin/?username=Yutong-Zhou-cv&repo=awesome-Text-to-Image&theme=swift" />
-  <img alt="Transformer-in-CV" height="90px" src="https://github-readme-stats.vercel.app/api/pin/?username=Yutong-Zhou-cv&repo=awesome-Transformer-in-CV&theme=swift" />
-  <img alt="Multimodality" height="90px" src="https://github-readme-stats.vercel.app/api/pin/?username=Yutong-Zhou-cv&repo=Awesome-Multimodality&theme=swift" />
+  <img alt="Text-to-Image" height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=Yutong-Zhou-cv&repo=awesome-Text-to-Image&theme=swift" />
+  <img alt="Transformer-in-CV" height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=Yutong-Zhou-cv&repo=awesome-Transformer-in-CV&theme=swift" />
 </p>
 
 <!--
+<img alt="Multimodality" height="80px" src="https://github-readme-stats.vercel.app/api/pin/?username=Yutong-Zhou-cv&repo=Awesome-Multimodality&theme=swift" />
+
 ### 📈 Stats
 
 [![Yutong-Zhou-cv's github stats](https://github-readme-stats.vercel.app/api?username=Yutong-Zhou-cv&show_icons=true&theme=calm)](https://github.com/Yutong-Zhou-cv/Yutong-Zhou-cv)
