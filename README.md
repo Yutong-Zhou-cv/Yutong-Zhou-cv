@@ -29,9 +29,9 @@ Here are some ideas to get you started:
 
 ### 🍬 Awesome Repo
 <p align="center">
-  <img alt="Text-to-Image" height="95px" src="https://github-readme-stats.vercel.app/api/pin/?username=Yutong-Zhou-cv&repo=awesome-Text-to-Image&theme=swift" />
-  <img alt="Transformer-in-CV" height="95px" src="https://github-readme-stats.vercel.app/api/pin/?username=Yutong-Zhou-cv&repo=awesome-Transformer-in-CV&theme=swift" />
-  <img alt="Multimodality" height="95px" src="https://github-readme-stats.vercel.app/api/pin/?username=Yutong-Zhou-cv&repo=Awesome-Multimodality&theme=swift" />
+  <img alt="Text-to-Image" height="90px" src="https://github-readme-stats.vercel.app/api/pin/?username=Yutong-Zhou-cv&repo=awesome-Text-to-Image&theme=swift" />
+  <img alt="Transformer-in-CV" height="90px" src="https://github-readme-stats.vercel.app/api/pin/?username=Yutong-Zhou-cv&repo=awesome-Transformer-in-CV&theme=swift" />
+  <img alt="Multimodality" height="90px" src="https://github-readme-stats.vercel.app/api/pin/?username=Yutong-Zhou-cv&repo=Awesome-Multimodality&theme=swift" />
 </p>
 
 <!--
