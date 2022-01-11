@@ -33,8 +33,10 @@ Here are some ideas to get you started:
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Yutong-Zhou-cv&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=onedark&margin-w=15" alt="Yutong-Zhou-cv" /></a> </p>
 
 ### 🍬 Awesome Repo
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Yutong-Zhou-cv&repo=awesome-Text-to-Image&theme=swift)](https://github.com/Yutong-Zhou-cv/awesome-Text-to-Image)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Yutong-Zhou-cv&repo=awesome-Transformer-in-CV&theme=swift)](https://github.com/Yutong-Zhou-cv/awesome-Transformer-in-CV)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Yutong-Zhou-cv&repo=awesome-Text-to-Image&theme=flag-india)](https://github.com/Yutong-Zhou-cv/awesome-Text-to-Image)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Yutong-Zhou-cv&repo=awesome-Transformer-in-CV&theme=flag-india)](https://github.com/Yutong-Zhou-cv/awesome-Transformer-in-CV)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Yutong-Zhou-cv&repo=Awesome-AI-in-Beauty-Industry&theme=flag-india)](https://github.com/Yutong-Zhou-cv/Awesome-AI-in-Beauty-Industry)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Yutong-Zhou-cv&repo=Awesome-Multimodality&theme=flag-india)](https://github.com/Yutong-Zhou-cv/Awesome-Multimodality)
 
 <!--
 <img alt="Multimodality" height="80px" src="https://github-readme-stats.vercel.app/api/pin/?username=Yutong-Zhou-cv&repo=Awesome-Multimodality&theme=swift" />
@@ -49,12 +51,13 @@ Here are some ideas to get you started:
 </a>
 
 ### ✨ Awesome Repo
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Yutong-Zhou-cv&repo=awesome-Text-to-Image&theme=flag-india/swift/calm)](https://github.com/Yutong-Zhou-cv/awesome-Text-to-Image)
+
 <p align="center">
   <img alt="Text-to-Image" height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=Yutong-Zhou-cv&repo=awesome-Text-to-Image&theme=swift" />
   <img alt="Transformer-in-CV" height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=Yutong-Zhou-cv&repo=awesome-Transformer-in-CV&theme=swift" />
 </p>
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Yutong-Zhou-cv&repo=Awesome-AI-in-Beauty-Industry&theme=calm)](https://github.com/Yutong-Zhou-cv/Awesome-AI-in-Beauty-Industry)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Yutong-Zhou-cv&repo=Awesome-Multimodality&theme=calm)](https://github.com/Yutong-Zhou-cv/Awesome-Multimodality)
  
 ### 🌞 Focusing Repo
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=heartexlabs&repo=label-studio&theme=flag-india)](https://github.com/heartexlabs/label-studio)
