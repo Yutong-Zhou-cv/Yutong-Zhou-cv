@@ -17,6 +17,14 @@ jobs:
           config_padding: 0, 20
           committer_message: "chore: update github metrics [skip ci]"
 
+      - uses: Platane/snk@v0.0.18
+        with:
+          # github user name to read the contribution graph from (**required**)
+          # using action context var `github.repository_owner` or specified user
+          github_user_name: ${{ github.Yutong-Zhou-cv }} #github.repository_owner
+          gif_out_path: static/github-snake.gif
+          svg_out_path: static/github-snake.svg
+          
           # Options
           user: Yutong-Zhou-cv
           template: classic
@@ -47,16 +55,3 @@ jobs:
           # languages
           plugin_languages: yes
           plugin_languages_ignored: "HTML"
-
-      - uses: Platane/snk@master
-        with:
-          # github user name to read the contribution graph from (**required**)
-          # using action context var `github.repository_owner` or specified user
-          github_user_name: ${{ github.repository_owner }}
-
-          # path of the generated gif file
-          # If left empty, the gif file will not be generated
-          gif_out_path: static/github-snake.gif
-          # path of the generated svg file
-          # If left empty, the svg file will not be generated
-          svg_out_path: static/github-snake.svg
