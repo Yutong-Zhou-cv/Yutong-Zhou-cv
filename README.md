@@ -23,24 +23,25 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Yutong-Zhou-cv&label=Visitors&color=blue&style=plastic" alt="Yutong-Zhou-cv" /></p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=Yutong-Zhou-cv&count_private=true&show_icons=true&theme=flag-india " />
+  <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=Yutong-Zhou-cv&count_private=true&show_icons=true&theme=rose_pine " />
 </a>
 
-[![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=Yutong-Zhou-cv&repo=FFHQ-Text_Dataset&theme=flag-india )](https://github.com/Yutong-Zhou-cv/FFHQ-Text_Dataset)
+[![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=Yutong-Zhou-cv&repo=FFHQ-Text_Dataset&theme=rose_pine )](https://github.com/Yutong-Zhou-cv/FFHQ-Text_Dataset)
 
 <img src="./static/github-metrics.svg" alt="Metrics" width="100%">
-<img src="./static/github-my-contribution.svg" alt="Metrics" width="100%">
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Yutong-Zhou-cv&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=onedark&margin-w=15" alt="Yutong-Zhou-cv" /></a> </p>
 
 ### 🍬 Awesome Repo
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Yutong-Zhou-cv&repo=awesome-Text-to-Image&theme=flag-india)](https://github.com/Yutong-Zhou-cv/awesome-Text-to-Image)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Yutong-Zhou-cv&repo=awesome-Transformer-in-CV&theme=flag-india)](https://github.com/Yutong-Zhou-cv/awesome-Transformer-in-CV)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Yutong-Zhou-cv&repo=Awesome-AI-in-Beauty-Industry&theme=flag-india)](https://github.com/Yutong-Zhou-cv/Awesome-AI-in-Beauty-Industry)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Yutong-Zhou-cv&repo=Awesome-Multimodality&theme=flag-india)](https://github.com/Yutong-Zhou-cv/Awesome-Multimodality)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Yutong-Zhou-cv&repo=awesome-Text-to-Image&theme=rose_pine)](https://github.com/Yutong-Zhou-cv/awesome-Text-to-Image)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Yutong-Zhou-cv&repo=awesome-Transformer-in-CV&theme=rose_pine)](https://github.com/Yutong-Zhou-cv/awesome-Transformer-in-CV)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Yutong-Zhou-cv&repo=Awesome-Survey-Papers&theme=rose_pine)](https://github.com/Yutong-Zhou-cv/Awesome-Survey-Papers)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Yutong-Zhou-cv&repo=Awesome-Multimodality&theme=rose_pine)](https://github.com/Yutong-Zhou-cv/Awesome-Multimodality)
 
 <!--
 <img alt="Multimodality" height="80px" src="https://github-readme-stats.vercel.app/api/pin/?username=Yutong-Zhou-cv&repo=Awesome-Multimodality&theme=swift" />
+
+<img src="./static/github-my-contribution.svg" alt="Metrics" width="100%">
 
 ### 📈 Stats
 
@@ -53,7 +54,7 @@ Here are some ideas to get you started:
 
 ### ✨ Awesome Repo
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Yutong-Zhou-cv&repo=awesome-Text-to-Image&theme=flag-india/swift/calm)](https://github.com/Yutong-Zhou-cv/awesome-Text-to-Image)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Yutong-Zhou-cv&repo=Awesome-AI-in-Beauty-Industry&theme=flag-india)](https://github.com/Yutong-Zhou-cv/Awesome-AI-in-Beauty-Industry)
 
 <p align="center">
   <img alt="Text-to-Image" height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=Yutong-Zhou-cv&repo=awesome-Text-to-Image&theme=swift" />
