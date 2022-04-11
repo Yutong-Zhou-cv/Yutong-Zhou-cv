@@ -28,9 +28,6 @@ Here are some ideas to get you started:
 
 [![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=Yutong-Zhou-cv&repo=FFHQ-Text_Dataset&theme=rose_pine )](https://github.com/Yutong-Zhou-cv/FFHQ-Text_Dataset)
 
-<img src="./static/github-metrics.svg" alt="Metrics" width="100%">
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Yutong-Zhou-cv&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=onedark&margin-w=15" alt="Yutong-Zhou-cv" /></a> </p>
 
 ### 🍬 Awesome Repo
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Yutong-Zhou-cv&repo=awesome-Text-to-Image&theme=rose_pine)](https://github.com/Yutong-Zhou-cv/awesome-Text-to-Image)
@@ -39,6 +36,11 @@ Here are some ideas to get you started:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Yutong-Zhou-cv&repo=Awesome-Multimodality&theme=rose_pine)](https://github.com/Yutong-Zhou-cv/Awesome-Multimodality)
 
 <!--
+
+<img src="./static/github-metrics.svg" alt="Metrics" width="100%">
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Yutong-Zhou-cv&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=onedark&margin-w=15" alt="Yutong-Zhou-cv" /></a> </p>
+
 <img alt="Multimodality" height="80px" src="https://github-readme-stats.vercel.app/api/pin/?username=Yutong-Zhou-cv&repo=Awesome-Multimodality&theme=swift" />
 
 <img src="./static/github-my-contribution.svg" alt="Metrics" width="100%">
