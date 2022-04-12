@@ -1,57 +1,57 @@
-# Ref: https://github.com/lowlighter/metrics/blob/master/action.yml
-name: Metrics
-on:
-  schedule: [{ cron: '30 0,12 * * *' }]
-  workflow_dispatch:
-  push: { branches: ['master'] }
+# # Ref: https://github.com/lowlighter/metrics/blob/master/action.yml
+# name: Metrics
+# on:
+#   schedule: [{ cron: '30 0,12 * * *' }]
+#   workflow_dispatch:
+#   push: { branches: ['master'] }
 
-jobs:
-  github-metrics:
-    runs-on: ubuntu-latest
-    steps:
-      # See action.yml for all options
-      - uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          filename: static/github-metrics.*
-          config_padding: 0, 20
-          committer_message: "chore: update github metrics [skip ci]"
-
-#       - uses: Platane/snk@v0.0.18
+# jobs:
+#   github-metrics:
+#     runs-on: ubuntu-latest
+#     steps:
+#       # See action.yml for all options
+#       - uses: lowlighter/metrics@latest
 #         with:
-#           # github user name to read the contribution graph from (**required**)
-#           # using action context var `github.repository_owner` or specified user
-#           github_user_name: ${{ github.Yutong-Zhou-cv }} #github.repository_owner
-#           gif_out_path: static/github-snake.gif
-#           svg_out_path: static/github-snake.svg
+#           token: ${{ secrets.METRICS_TOKEN }}
+#           filename: static/github-metrics.*
+#           config_padding: 0, 20
+#           committer_message: "chore: update github metrics [skip ci]"
+
+# #       - uses: Platane/snk@v0.0.18
+# #         with:
+# #           # github user name to read the contribution graph from (**required**)
+# #           # using action context var `github.repository_owner` or specified user
+# #           github_user_name: ${{ github.Yutong-Zhou-cv }} #github.repository_owner
+# #           gif_out_path: static/github-snake.gif
+# #           svg_out_path: static/github-snake.svg
           
-          # Options
-          user: Yutong-Zhou-cv
-          template: classic
-          config_gemoji : yes
-          config_timezone: Asia/Tokyo
-          config_display: large
+#           # Options
+#           user: Yutong-Zhou-cv
+#           template: classic
+#           config_gemoji : yes
+#           config_timezone: Asia/Tokyo
+#           config_display: large
 
-          # Base
-          base: header, activity, community, repositories
-          repositories_forks: no
-          repositories_affiliations: owner, collaborator
-          repositories_skipped: Yutong-Zhou-cv/Yutong-Zhou-cv
+#           # Base
+#           base: header, activity, community, repositories
+#           repositories_forks: no
+#           repositories_affiliations: owner, collaborator
+#           repositories_skipped: Yutong-Zhou-cv/Yutong-Zhou-cv
 
 
-          # Coding habits
-          plugin_habits: yes
-          plugin_habits_from: 200       # Use 200 events to compute habits
-          plugin_habits_days: 14        # Keep only events from last 14 days
-          plugin_habits_facts: yes      # Display facts section
-          plugin_habits_charts: yes     # Display charts section
+#           # Coding habits
+#           plugin_habits: yes
+#           plugin_habits_from: 200       # Use 200 events to compute habits
+#           plugin_habits_days: 14        # Keep only events from last 14 days
+#           plugin_habits_facts: yes      # Display facts section
+#           plugin_habits_charts: yes     # Display charts section
 
-          plugin_stars: yes
-          plugin_stars_limit: 4 # Limit to 4 entries
+#           plugin_stars: yes
+#           plugin_stars_limit: 4 # Limit to 4 entries
 
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year # Display full year instead of half year
+#           plugin_isocalendar: yes
+#           plugin_isocalendar_duration: half-year # Display full year instead of half year
 
-          # languages
-          plugin_languages: yes
-          plugin_languages_ignored: "HTML"
+#           # languages
+#           plugin_languages: yes
+#           plugin_languages_ignored: "HTML"
