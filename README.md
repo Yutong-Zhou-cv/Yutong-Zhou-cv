@@ -6,8 +6,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Text-to-Image Synthesis.
-- 🌱 I’m currently learning on Transformer, BERT and GPT.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -16,18 +14,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Yutong-Zhou-cv&theme=juicyfresh" alt="Yutong-Zhou-cv" /></a> </p>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yutong-Zhou-cv&theme=nord_bright)
 -->
 
 <h1 align="center">Hi, I'm @ Yutong 🌱</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Yutong-Zhou-cv&label=Visitors&color=blue&style=plastic" alt="Yutong-Zhou-cv" /></p>
 
+- 🌻 I’m currently working on **Vision-Language Cooperative Representation** and **Multi-Modalities Learning**.
+- 🤔 I’m currently learning on **Transformer** and **CLIP**.
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=Yutong-Zhou-cv&count_private=true&show_icons=true&theme=rose_pine " />
 </a>
 
 [![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=Yutong-Zhou-cv&repo=FFHQ-Text_Dataset&theme=rose_pine )](https://github.com/Yutong-Zhou-cv/FFHQ-Text_Dataset)
-
 
 ### 🍬 Awesome Repo
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Yutong-Zhou-cv&repo=awesome-Text-to-Image&theme=rose_pine)](https://github.com/Yutong-Zhou-cv/awesome-Text-to-Image)
