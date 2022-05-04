@@ -26,18 +26,28 @@ Here are some ideas to get you started:
 - 🤔 I’m currently learning on **Transformer** and **CLIP**.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=Yutong-Zhou-cv&count_private=true&show_icons=true&theme=rose_pine " />
+  <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=Yutong-Zhou-cv&count_private=true&show_icons=true&theme=rose_pine&include_all_commits=true " />
 </a>
 
-[![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=Yutong-Zhou-cv&repo=FFHQ-Text_Dataset&theme=rose_pine )](https://github.com/Yutong-Zhou-cv/FFHQ-Text_Dataset)
+[![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=Yutong-Zhou-cv&repo=FFHQ-Text_Dataset&theme=rose_pine)](https://github.com/Yutong-Zhou-cv/FFHQ-Text_Dataset)
 
 ### 🍬 Awesome Repo
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Yutong-Zhou-cv&repo=awesome-Text-to-Image&theme=rose_pine)](https://github.com/Yutong-Zhou-cv/awesome-Text-to-Image)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Yutong-Zhou-cv&repo=awesome-Transformer-in-CV&theme=rose_pine)](https://github.com/Yutong-Zhou-cv/awesome-Transformer-in-CV)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Yutong-Zhou-cv&repo=Awesome-Survey-Papers&theme=rose_pine)](https://github.com/Yutong-Zhou-cv/Awesome-Survey-Papers)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Yutong-Zhou-cv&repo=Awesome-Multimodality&theme=rose_pine)](https://github.com/Yutong-Zhou-cv/Awesome-Multimodality)
+<a href="https://github.com/Yutong-Zhou-cv/awesome-Text-to-Image">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yutong-Zhou-cv&repo=awesome-Text-to-Image&theme=rose_pine" />
+</a>
+<a href="https://github.com/Yutong-Zhou-cv/awesome-Transformer-in-CV">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yutong-Zhou-cv&repo=awesome-Transformer-in-CV&theme=rose_pine" />
+</a>
+<a href="https://github.com/Yutong-Zhou-cv/Awesome-Survey-Papers">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yutong-Zhou-cv&repo=Awesome-Survey-Papers&theme=rose_pine" />
+</a>
+<a href="https://github.com/Yutong-Zhou-cv/Awesome-Multimodality">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yutong-Zhou-cv&repo=Awesome-Multimodality&theme=rose_pine" />
+</a>
 
 <!--
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Yutong-Zhou-cv&repo=awesome-Text-to-Image&theme=rose_pine)](https://github.com/Yutong-Zhou-cv/awesome-Text-to-Image)
 
 <img src="./static/github-metrics.svg" alt="Metrics" width="100%">
 
