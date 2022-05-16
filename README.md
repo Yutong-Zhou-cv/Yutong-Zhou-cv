@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hi,%20I'm%20Yutong~🌱&fontColor=ffffff&fontSize=35&animation=fadeIn&fontAlignY=30)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Yutong-Zhou-cv&label=Visitors&color=blue&style=plastic" alt="Yutong-Zhou-cv" /></p>
 
 <!--
 **Yutong-Zhou-cv/Yutong-Zhou-cv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,11 +18,9 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Yutong-Zhou-cv&theme=juicyfresh" alt="Yutong-Zhou-cv" /></a> </p>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yutong-Zhou-cv&theme=nord_bright)
--->
 
 <h1 align="center">Hi, I'm @ Yutong 🌱</h1>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Yutong-Zhou-cv&label=Visitors&color=blue&style=plastic" alt="Yutong-Zhou-cv" /></p>
+-->
 
 - 🌻 I’m currently working on **Vision-Language Cooperative Representation** and **Multi-Modalities Learning**.
 - 🤔 I’m currently learning on **Transformer** and **CLIP**.
