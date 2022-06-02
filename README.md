@@ -2,23 +2,19 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Yutong-Zhou-cv&label=Visitors&color=blue&style=plastic" alt="Yutong-Zhou-cv" /></p>
 
 <!--
+<img alt="Focusing" align="left" width="400"  src="./static/Felic Art.jpg" /> 
+
 **Yutong-Zhou-cv/Yutong-Zhou-cv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### Hi there 👋
-
 Here are some ideas to get you started:
-
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Yutong-Zhou-cv&theme=juicyfresh" alt="Yutong-Zhou-cv" /></a> </p>
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yutong-Zhou-cv&theme=nord_bright)
-
 <h1 align="center">Hi, I'm @ Yutong 🌱</h1>
 -->
 
@@ -30,6 +26,8 @@ Here are some ideas to get you started:
 </a>
 
 [![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=Yutong-Zhou-cv&repo=FFHQ-Text_Dataset&theme=rose_pine)](https://github.com/Yutong-Zhou-cv/FFHQ-Text_Dataset)
+
+<img alt="Focusing" align="center" width="800"  src="./static/Felic Art.jpg" /> 
 
 ### 🍬 Awesome Repo
 <a href="https://github.com/Yutong-Zhou-cv/awesome-Text-to-Image">
