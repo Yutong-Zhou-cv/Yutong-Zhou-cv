@@ -28,10 +28,10 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height="150px" src="http://github-readme-streak-stats.herokuapp.com?user=Yutong-Zhou-cv&theme=darcula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=B26E42" />
+  <img align="center" height="150px" src="http://github-readme-streak-stats.herokuapp.com?user=Yutong-Zhou-cv&theme=darcula&date_format=M%20j%5B%2C%20Y%5D&ring=B26E42" />
 </a>
 
-### 🌻 Datasets
+### 🍉 Datasets
 
 [![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=Yutong-Zhou-cv&repo=FFHQ-Text_Dataset&theme=rose_pine)](https://github.com/Yutong-Zhou-cv/FFHQ-Text_Dataset)
 [![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=Yutong-Zhou-cv&repo=Bento800_Dataset&theme=rose_pine)](https://github.com/Yutong-Zhou-cv/Bento800_Dataset)
