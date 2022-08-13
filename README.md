@@ -15,20 +15,25 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Yutong-Zhou-cv&theme=juicyfresh" alt="Yutong-Zhou-cv" /></a> </p>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yutong-Zhou-cv&theme=nord_bright)
 <h1 align="center">Hi, I'm @ Yutong 🌱</h1>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api?username=Yutong-Zhou-cv&count_private=true&show_icons=true&theme=darcula&include_all_commits=true " />
+</a>
 -->
 
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 - 🌻 I’m currently working on **Vision-Language Cooperative Representation** and **Multi-Modalities Learning**.
 - 🤔 I’m currently learning on **Transformer** and **CLIP**.
 
 
 ### 📈 Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api?username=Yutong-Zhou-cv&count_private=true&show_icons=true&theme=darcula&include_all_commits=true " />
+<a href="https://github.com/Yutong-Zhou-cv">
+    <img align="center" width="40%" src="https://github-readme-stats.vercel.app/api?username=Yutong-Zhou-cv&theme=darcula&show_icons=true" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height="150px" src="http://github-readme-streak-stats.herokuapp.com?user=Yutong-Zhou-cv&theme=darcula&date_format=M%20j%5B%2C%20Y%5D&ring=B26E42" />
+  <img align="center" width="40%" src="http://github-readme-streak-stats.herokuapp.com?user=Yutong-Zhou-cv&theme=darcula&date_format=M%20j%5B%2C%20Y%5D&ring=B26E42" />
 </a>
 
 ### 🍉 Datasets
