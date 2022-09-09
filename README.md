@@ -23,7 +23,7 @@ The first manually annotated synthetic bento dataset for novel aesthetic box lun
 
 ### 🍬 Awesome Repo
 #### [Text📝 to Image🖼](https://github.com/Yutong-Zhou-cv/awesome-Text-to-Image)  ![GitHub Repo stars](https://img.shields.io/github/stars/Yutong-Zhou-cv/Awesome-Text-to-Image?style=social) ![GitHub forks](https://img.shields.io/github/forks/Yutong-Zhou-cv/Awesome-Text-to-Image?style=social) 
-A Survey (Quantitative Evaluation Metrics, Dataset, Project and Paper) on Text-to-Image Synthesis & Manipulation and other related works.
+A Survey (Evaluation Metrics, Dataset, Project and Paper) on Text-to-Image Synthesis & Manipulation and other related works.
 #### [Transformer🤹‍♂️ in CV👩‍💻](https://github.com/Yutong-Zhou-cv/awesome-Transformer-in-CV)  ![GitHub Repo stars](https://img.shields.io/github/stars/Yutong-Zhou-cv/awesome-Transformer-in-CV?style=social) ![GitHub forks](https://img.shields.io/github/forks/Yutong-Zhou-cv/awesome-Transformer-in-CV?style=social)
 A collection of resources on Transformer in CV.
 #### [Multimodality🎶📜](https://github.com/Yutong-Zhou-cv/Awesome-Multimodality)  ![GitHub Repo stars](https://img.shields.io/github/stars/Yutong-Zhou-cv/Awesome-Multimodality?style=social) ![GitHub forks](https://img.shields.io/github/forks/Yutong-Zhou-cv/Awesome-Multimodality?style=social)
