@@ -34,7 +34,7 @@ A Survey on multimodal learning research.
 
 
 ### 🎑 Selected Research Papers
-#### 👸🏻 Text to Face Genertation and Manipulation
+#### 👸🏻 Text to Face Generation and Manipulation
 * [FG 2021] [Generative Adversarial Network for Text-to-Face Synthesis and Manipulation with Pretrained BERT Model](https://ieeexplore.ieee.org/document/9666791), **Yutong Zhou**, Nobutaka Shimada [**⭐Best Poster Presentation Award⭐**](http://iab-rubric.org/fg2021/awards.html)
 * [ACMMM 2021] [Generative Adversarial Network for Text-to-Face Synthesis and Manipulation](https://dl.acm.org/doi/abs/10.1145/3474085.3481026), **Yutong Zhou**
 #### 🍽 Aesthetic Box Lunch Presentation Design
