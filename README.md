@@ -1,8 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&text=ℋ𝒾,%20ℐ'𝓂%20𝒴𝓊𝓉ℴ𝓃ℊ~🌱&fontColor=ffffff&fontSize=35&animation=fadeIn&fontAlignY=30&desc=🌼𝔅𝔢𝔱𝔱𝔢𝔯%20𝔩𝔞𝔱𝔢%20𝔱𝔥𝔞𝔫%20𝔫𝔢𝔳𝔢𝔯!🌼&descAlignY=55&descAlign=85)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&text=ℋ𝒾,%20ℐ'𝓂%20𝒴𝓊𝓉ℴ𝓃ℊ~🌱&fontColor=ffffff&fontSize=35&animation=fadeIn&fontAlignY=30&desc=🌼𝔅𝔢𝔱𝔱𝔢𝔯%20𝔩𝔞𝔱𝔢%20𝔱𝔥𝔞𝔫%20𝔫𝔢𝔳𝔢𝔯!🌼&descAlignY=55&descAlign=85) 
 
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 - 🌻 I’m currently working on **Vision-Language Cooperative Representation** and **Multi-Modalities Learning**.
-- 🤔 I’m currently learning on **Transformer** and **CLIP**.
+- 🤔 I’m currently learning on **Transformer** and **CLIP**. 
 
 
 ### 📈 Stats
@@ -33,7 +32,7 @@ A Survey on multimodal learning research.
 
 
 
-### 🎑 Selected Research Papers
+### 🎑 Selected Research Papers <img src="https://media.giphy.com/media/ecNjTAG18JP4oLeQDY/giphy.gif" width="50"> 
 #### 👸🏻 Text to Face Generation and Manipulation
 * [FG 2021] [Generative Adversarial Network for Text-to-Face Synthesis and Manipulation with Pretrained BERT Model](https://ieeexplore.ieee.org/document/9666791), **Yutong Zhou**, Nobutaka Shimada [**⭐Best Poster Presentation Award⭐**](http://iab-rubric.org/fg2021/awards.html)
 * [ACMMM 2021] [Generative Adversarial Network for Text-to-Face Synthesis and Manipulation](https://dl.acm.org/doi/abs/10.1145/3474085.3481026), **Yutong Zhou**
@@ -41,6 +40,10 @@ A Survey on multimodal learning research.
 * [ACMMM 2022] [ABLE: Aesthetic Box Lunch Editing](https://dl.acm.org/doi/abs/10.1145/3552485.3554935), **Yutong Zhou**, Nobutaka Shimada
 
 <!--
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+
+<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> 
+
 <a href="https://github.com/Yutong-Zhou-cv/awesome-Text-to-Image">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yutong-Zhou-cv&repo=awesome-Text-to-Image&theme=rose_pine" />
 </a>
