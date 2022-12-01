@@ -1,10 +1,16 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&text=ℋ𝒾,%20ℐ'𝓂%20𝒴𝓊𝓉ℴ𝓃ℊ~🌱&fontColor=ffffff&fontSize=35&animation=fadeIn&fontAlignY=30&desc=🌼𝔅𝔢𝔱𝔱𝔢𝔯%20𝔩𝔞𝔱𝔢%20𝔱𝔥𝔞𝔫%20𝔫𝔢𝔳𝔢𝔯!🌼&descAlignY=55&descAlign=85) 
+<!--![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&text=ℋ𝒾,%20ℐ'𝓂%20𝒴𝓊𝓉ℴ𝓃ℊ~🌱&fontColor=ffffff&fontSize=35&animation=fadeIn&fontAlignY=30&desc=🌼𝔅𝔢𝔱𝔱𝔢𝔯%20𝔩𝔞𝔱𝔢%20𝔱𝔥𝔞𝔫%20𝔫𝔢𝔳𝔢𝔯!🌼&descAlignY=55&descAlign=85)
+
+![](https://activity-graph.herokuapp.com/graph?username=Yutong-Zhou-cv&theme=rogue)
+-->
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&section=header&text=ℋ𝒾,%20ℐ'𝓂%20𝒴𝓊𝓉ℴ𝓃ℊ~🌱&fontColor=ffffff&fontSize=30&animation=fadeIn&fontAlignY=30) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=25&pause=2000&color=9EAB78&center=true&vCenter=true&multiline=true&width=800&height=75&lines=A+Ph.D.+Candidate+%40+Ritsumeikan+University(%E0%B7%86%60%EA%92%B3%C2%B4%E0%B7%86);%F0%9F%8C%BCBetter+late+than+never!%F0%9F%8C%BC)](https://git.io/typing-svg)
 
 - 🌻 I’m currently working on **Vision-Language Cooperative Representation** and **Multi-Modalities Learning**.
 - 🤔 I’m currently learning on **Transformer** and **CLIP**. 
 
 
-### 📈 Stats
+### 📈 GitHub status
 
 <a href="https://github.com/Yutong-Zhou-cv">
     <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api?username=Yutong-Zhou-cv&theme=darcula&show_icons=true" />
