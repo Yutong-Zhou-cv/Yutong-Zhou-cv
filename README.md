@@ -17,8 +17,14 @@
 | <img align="center" height="155px" src="https://github-readme-stats.vercel.app/api?username=Yutong-Zhou-cv&theme=darcula&show_icons=true" /> | <img align="center" height="155px" src="http://github-readme-streak-stats.herokuapp.com?user=Yutong-Zhou-cv&theme=darcula&date_format=M%20j%5B%2C%20Y%5D&ring=B26E42" /> |
 | ------------------------------------------------------------------------ | ----------------------------------------------------------------------- |
 -->
-| <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api?username=Yutong-Zhou-cv&theme=kacho_ga&show_icons=true" /> | <img align="center" height="150px" src="http://github-readme-streak-stats.herokuapp.com?user=Yutong-Zhou-cv&theme=kacho_ga&date_format=M%20j%5B%2C%20Y%5D&ring=B26E42" /> |
-| :------------------------------------------------------------------------: | :-----------------------------------------------------------------------: |
+
+<a href="https://github.com/Yutong-Zhou-cv">
+    <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api?username=Yutong-Zhou-cv&theme=kacho_ga&show_icons=true" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" height="150px" src="http://github-readme-streak-stats.herokuapp.com?user=Yutong-Zhou-cv&theme=kacho_ga&date_format=M%20j%5B%2C%20Y%5D&ring=B26E42" />
+</a>
 
 ### 🍉 Datasets
 #### [FFHQ-Text👨🏻🧒👧🏼🧓](https://github.com/Yutong-Zhou-cv/FFHQ-Text_Dataset) ![GitHub Repo stars](https://img.shields.io/github/stars/Yutong-Zhou-cv/FFHQ-Text_Dataset?style=social)
