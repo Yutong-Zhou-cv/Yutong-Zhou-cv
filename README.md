@@ -43,7 +43,7 @@ A collection of resources on Transformer in CV.
 #### [Multimodality🎶📜](https://github.com/Yutong-Zhou-cv/Awesome-Multimodality)  ![GitHub Repo stars](https://img.shields.io/github/stars/Yutong-Zhou-cv/Awesome-Multimodality?style=social) ![GitHub forks](https://img.shields.io/github/forks/Yutong-Zhou-cv/Awesome-Multimodality?style=social)
 A Survey on multimodal learning research.
 #### Others🎠
-[**Survey Papers🔍**](https://github.com/Yutong-Zhou-cv/Awesome-Survey-Papers) ![GitHub Repo stars](https://img.shields.io/github/stars/Yutong-Zhou-cv/Awesome-Survey-Papers?style=social)  | [**AI in Beauty Industry💄**](https://github.com/Yutong-Zhou-cv/Awesome-AI-in-Beauty-Industry) ![GitHub Repo stars](https://img.shields.io/github/stars/Yutong-Zhou-cv/Awesome-AI-in-Beauty-Industry?style=social) 
+[**Investigation of SAM🤔**](https://github.com/Yutong-Zhou-cv/Investigation-of-SAM) ![GitHub Repo stars](https://img.shields.io/github/stars/Yutong-Zhou-cv/Investigation-of-SAM?style=social) | [**Survey Papers🔍**](https://github.com/Yutong-Zhou-cv/Awesome-Survey-Papers) ![GitHub Repo stars](https://img.shields.io/github/stars/Yutong-Zhou-cv/Awesome-Survey-Papers?style=social) | [**AI in Beauty Industry💄**](https://github.com/Yutong-Zhou-cv/Awesome-AI-in-Beauty-Industry) ![GitHub Repo stars](https://img.shields.io/github/stars/Yutong-Zhou-cv/Awesome-AI-in-Beauty-Industry?style=social)
 
 
 
