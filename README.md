@@ -16,18 +16,19 @@
 **🔥Actively looking for postdoc opportunities starting in 2023 (ෆ`꒳´ෆ)🔥**
 
 ### 📈 GitHub status
-<!--
-| <img align="center" height="155px" src="https://github-readme-stats.vercel.app/api?username=Yutong-Zhou-cv&theme=darcula&show_icons=true" /> | <img align="center" height="155px" src="http://github-readme-streak-stats.herokuapp.com?user=Yutong-Zhou-cv&theme=darcula&date_format=M%20j%5B%2C%20Y%5D&ring=B26E42" /> |
-| ------------------------------------------------------------------------ | ----------------------------------------------------------------------- |
--->
 
 <a href="https://github.com/Yutong-Zhou-cv">
     <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api?username=Yutong-Zhou-cv&theme=rose_pine&show_icons=true" />
 </a>
 
+<!--
+| <img align="center" height="155px" src="https://github-readme-stats.vercel.app/api?username=Yutong-Zhou-cv&theme=darcula&show_icons=true" /> | <img align="center" height="155px" src="http://github-readme-streak-stats.herokuapp.com?user=Yutong-Zhou-cv&theme=darcula&date_format=M%20j%5B%2C%20Y%5D&ring=B26E42" /> |
+| ------------------------------------------------------------------------ | ----------------------------------------------------------------------- |
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" height="150px" src="http://github-readme-streak-stats.herokuapp.com?user=Yutong-Zhou-cv&theme=rose_pine&date_format=M%20j%5B%2C%20Y%5D&ring=B26E42" />
 </a>
+-->
 
 ### 🍉 Datasets
 #### [FFHQ-Text👨🏻🧒👧🏼🧓](https://github.com/Yutong-Zhou-cv/FFHQ-Text_Dataset) ![GitHub Repo stars](https://img.shields.io/github/stars/Yutong-Zhou-cv/FFHQ-Text_Dataset?style=social)
@@ -48,9 +49,13 @@ A Survey on multimodal learning research.
 
 
 ### 🎑 Selected Research Papers <img src="https://media.giphy.com/media/ecNjTAG18JP4oLeQDY/giphy.gif" width="50"> 
+#### 🍬 Survey
+* [CVPRW 2023] [Vision + Language Applications: A Survey](https://arxiv.org/abs/2305.14598), **Yutong Zhou**, Nobutaka Shimada 
 #### 👸🏻 Text to Face Generation and Manipulation
 * [FG 2021] [Generative Adversarial Network for Text-to-Face Synthesis and Manipulation with Pretrained BERT Model](https://ieeexplore.ieee.org/document/9666791), **Yutong Zhou**, Nobutaka Shimada [**⭐Best Poster Presentation Award⭐**](http://iab-rubric.org/fg2021/awards.html)
+<!--
 * [ACMMM 2021] [Generative Adversarial Network for Text-to-Face Synthesis and Manipulation](https://dl.acm.org/doi/abs/10.1145/3474085.3481026), **Yutong Zhou**
+-->
 #### 🍽 Aesthetic Box Lunch Presentation Design
 * [ACMMM 2022] [ABLE: Aesthetic Box Lunch Editing](https://dl.acm.org/doi/abs/10.1145/3552485.3554935), **Yutong Zhou**, Nobutaka Shimada
 
