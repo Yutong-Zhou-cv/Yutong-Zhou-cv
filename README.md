@@ -18,7 +18,7 @@
 ### 📈 GitHub status
 
 <a href="https://github.com/Yutong-Zhou-cv">
-    <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api?username=Yutong-Zhou-cv&theme=rose_pine&show_icons=true" />
+    <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api?username=Yutong-Zhou-cv&hide=contribs,issues&theme=rose&show_icons=true&rank_icon=github" />
 </a>
 
 <!--
