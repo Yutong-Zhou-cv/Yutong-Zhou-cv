@@ -8,12 +8,11 @@
 
 - 🌻 I’m currently working on **Vision-Language Cooperative Representation** and **Multi-Modalities Learning**.
 - 🤔 I’m currently learning on **Transformer** and **CLIP**. 
+**🔥Actively looking for postdoc opportunities starting in 2023 (ෆ`꒳´ෆ)🔥**
 
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header&text=ℋ𝒾,%20ℐ'𝓂%20𝒴𝓊𝓉ℴ𝓃ℊ~🌱&fontColor=ffffff&fontSize=30&animation=fadeIn&fontAlignY=25) 
-
-**🔥Actively looking for postdoc opportunities starting in 2023 (ෆ`꒳´ෆ)🔥**
 
 ### 📈 GitHub status
 
