@@ -46,18 +46,6 @@ A Survey on multimodal learning research.
 [**Investigation of SAM🤔**](https://github.com/Yutong-Zhou-cv/Investigation-of-SAM) ![GitHub Repo stars](https://img.shields.io/github/stars/Yutong-Zhou-cv/Investigation-of-SAM?style=social) | [**Survey Papers🔍**](https://github.com/Yutong-Zhou-cv/Awesome-Survey-Papers) ![GitHub Repo stars](https://img.shields.io/github/stars/Yutong-Zhou-cv/Awesome-Survey-Papers?style=social) | [**AI in Beauty Industry💄**](https://github.com/Yutong-Zhou-cv/Awesome-AI-in-Beauty-Industry) ![GitHub Repo stars](https://img.shields.io/github/stars/Yutong-Zhou-cv/Awesome-AI-in-Beauty-Industry?style=social)
 
 
-
-### 🎑 Selected Research Papers <img src="https://media.giphy.com/media/ecNjTAG18JP4oLeQDY/giphy.gif" width="50"> 
-#### 🍬 Survey
-* [CVPRW 2023] [Vision + Language Applications: A Survey](https://arxiv.org/abs/2305.14598), **Yutong Zhou**, Nobutaka Shimada 
-#### 👸🏻 Text to Face Generation and Manipulation
-* [FG 2021] [Generative Adversarial Network for Text-to-Face Synthesis and Manipulation with Pretrained BERT Model](https://ieeexplore.ieee.org/document/9666791), **Yutong Zhou**, Nobutaka Shimada [**⭐Best Poster Presentation Award⭐**](http://iab-rubric.org/fg2021/awards.html)
-<!--
-* [ACMMM 2021] [Generative Adversarial Network for Text-to-Face Synthesis and Manipulation](https://dl.acm.org/doi/abs/10.1145/3474085.3481026), **Yutong Zhou**
--->
-#### 🍽 Aesthetic Box Lunch Presentation Design
-* [ACMMM 2022] [ABLE: Aesthetic Box Lunch Editing](https://dl.acm.org/doi/abs/10.1145/3552485.3554935), **Yutong Zhou**, Nobutaka Shimada
-
 <!--
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
